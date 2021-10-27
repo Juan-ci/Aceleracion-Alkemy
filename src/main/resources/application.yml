@@ -1,0 +1,13 @@
+amazonProperties:
+    endpointUrl: https://s3.sa-east-1.amazonaws.com
+    accessKey: PutAccessKey
+    secretKey: PutHereSecretKey
+    bucketName: alkemy-ong
+    region: sa-east-1
+springfox:
+  documentation:
+    swaggerUi:
+      baseUrl: /api/docs
+    swagger:
+      v2:
+        path: /api/docs
